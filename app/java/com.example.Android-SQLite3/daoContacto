@@ -1,4 +1,3 @@
-package com.example.proyecto_final_eep;
 
 import android.content.ContentValues;
 import android.content.Context;
