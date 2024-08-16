@@ -4,7 +4,7 @@
 Aplicación desarrollada en Android Studio que permite a los usuarios registrarse y almacenar sus datos en una base de datos local utilizando SQLite3. La aplicación incluye funcionalidades básicas de registro, inicio de sesión, y administración de usuarios.
 
 ## Características Principales
-Registro de Usuario: Permite a los usuarios registrarse con un nombre de usuario, correo electrónico y contraseña.
+##### Registro de Usuario: Permite a los usuarios registrarse con un nombre de usuario, correo electrónico y contraseña.
 Inicio de Sesión: Los usuarios pueden iniciar sesión utilizando su nombre de usuario y contraseña.
 Validación de Datos: Validación de campos de entrada como correo electrónico y contraseñas.
 Almacenamiento Local con SQLite: Todos los datos de los usuarios se almacenan en una base de datos SQLite local.
