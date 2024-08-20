@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id agregar
+id cerrar
+id d_agregar
+id d_cancelar
+id edad
+id editar
+id eliminar
+id email
+id lista
+id nombre
+id t_edad
+id t_email
+id t_nombre
+id t_telefono
+id telefono
+layout activity_main
+layout dialogo
+layout item
+layout vista
+mipmap agregar
+mipmap delete
+mipmap edit
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Proyecto_final_eep
+style Theme.Proyecto_final_eep
+xml backup_rules
+xml data_extraction_rules
